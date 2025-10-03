@@ -36,3 +36,5 @@ The **Interactive Indian Recipe Finder** helps users discover Indian recipes bas
 3. Run a local server for testing (optional):
    ```bash
    python -m http.server 5500
+4.Open your browser and go to http://127.0.0.1:5500.
+5.Enter ingredients and explore Indian recipes!
